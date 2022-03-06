@@ -86,3 +86,8 @@ body {
 
   .mb-resp {
     margin-bottom: 1rem; } }
+
+  .test {
+    background-color: #3292a6;
+    padding: 20px;
+  }
